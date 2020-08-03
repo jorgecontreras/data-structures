@@ -1,3 +1,3 @@
 # data-structures
-Data structures exercises
+Data structures implementations
 
