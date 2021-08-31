@@ -1,4 +1,4 @@
-# Adjacency List
+# Adjacency List representation
 from collections import defaultdict
 
 class Graph:
