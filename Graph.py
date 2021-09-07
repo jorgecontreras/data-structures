@@ -28,6 +28,3 @@ graph.addEdge(2, 4)
 graph.addEdge(2, 3)
 
 graph.display()
-
-
-    
